@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63876" started-at="2021-05-17T17:45:46Z" finished-at="2021-05-17T17:46:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63876" started-at="2021-05-17T17:45:46Z" finished-at="2021-05-17T17:46:49Z">
+      <class name="com.qa.smallcase.testAssignments.testAssignment2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.smallcase.testAssignments.testAssignment2@59fa1d9b]" name="setUp" is-config="true" duration-ms="17045" started-at="2021-05-17T23:15:46Z" finished-at="2021-05-17T23:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkProductPrice()[pri:0, instance:com.qa.smallcase.testAssignments.testAssignment2@59fa1d9b]" name="checkProductPrice" duration-ms="44115" started-at="2021-05-17T23:16:03Z" finished-at="2021-05-17T23:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProductPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.smallcase.testAssignments.testAssignment2@59fa1d9b]" name="tearDown" is-config="true" duration-ms="2669" started-at="2021-05-17T23:16:47Z" finished-at="2021-05-17T23:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.smallcase.testAssignments.testAssignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
